@@ -95,7 +95,7 @@ body {
   margin: 0 0 20px;
 }
 .add-task__input {
-  width: 318px;
+  width: 316px;
 }
 
 .add-task__button:hover {
@@ -108,6 +108,7 @@ body {
   padding: 20px 0;
   border-bottom: 1px solid #eee;
   display: flex;
+  align-items: center;
 }
 .todo__item > * {
   vertical-align: middle;
